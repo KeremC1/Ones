@@ -1,0 +1,15 @@
+# Backend
+Backend/bin/
+Backend/obj/
+Backend/.vs/
+Backend/**/*.user
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.angular/
+
+# Genel
+*.log
+*.env
+.DS_Store

@@ -1,0 +1,103 @@
+
+.stroke{
+    text-decoration: line-through;
+}
+
+.container {
+
+  h1 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #333;
+    margin-top: 1rem;
+  }
+}
+
+form {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  margin-bottom: 2rem;
+  .form-label {
+    font-weight: 500;
+    color: #333;
+  }
+
+  .form-control {
+    border-radius: 8px;
+    border: 1px solid #ced4da;
+    &:focus {
+      border-color: #0d6efd;
+      box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+    }
+  }
+
+  button {
+margin-top: 1rem;
+    border-radius: 8px;
+    padding: 0.5rem 1.5rem;
+    font-weight: 500;
+    display: block;          
+    margin-left: auto;       
+    margin-right: auto;   
+  }
+}
+
+
+table {
+  background-color: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+
+  thead {
+    background-color: #343a40;
+    color: #fff;
+
+    th {
+      padding: 1rem;
+      font-weight: 500;
+    }
+  }
+
+  tbody {
+    tr {
+      &:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+
+      td {
+        padding: 0.75rem 1rem;
+        vertical-align: middle;
+      }
+
+      .stroke {
+        text-decoration: line-through;
+        color: #6c757d;
+      }
+
+      a {
+        color: #dc3545;
+        cursor: pointer;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+
+  input[type='checkbox'] {
+    transform: scale(1.2);
+    cursor: pointer;
+  }
+}
+.navbar-brand {
+  font-size: 1.8rem;     
+  font-weight: 700;      
+  letter-spacing: 1px;   
+  color: #ffffff !important;  
+}
