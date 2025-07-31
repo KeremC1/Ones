@@ -1,35 +1,30 @@
 ﻿using MediatR;
 using proje.Application.Commands;
-using proje.Data;
+using proje.Application.Interfaces;
 using proje.Entities;
-using Microsoft.EntityFrameworkCore;
 
 namespace proje.Application.Commands.Handlers
 {
     public class UpdateToDoHandler : IRequestHandler<UpdateToDoCommand, ToDoItem>
     {
-        private readonly ToDodbContext _context;
+        private readonly IToDoRepository _repository;
 
-        public UpdateToDoHandler(ToDodbContext context)
+        public UpdateToDoHandler(IToDoRepository repository)
         {
-            _context = context;
+            _repository = repository;
         }
 
         public async Task<ToDoItem> Handle(UpdateToDoCommand request, CancellationToken cancellationToken)
         {
-            var todo = await _context.ToDos.FirstOrDefaultAsync(t => t.ID == request.ID, cancellationToken);
+            var todo = new ToDoItem
+            {
+                ID = request.ID,
+                Title = request.Title,
+                Description = request.Description,
+                IsCompleted = request.IsCompleted
+            };
 
-            if (todo == null)
-                return null;
-
-            
-            todo.Title = request.Title;
-            todo.Description = request.Description;
-            todo.IsCompleted = request.IsCompleted;
-
-            await _context.SaveChangesAsync(cancellationToken);
-
-            return todo;
+            return await _repository.UpdateAsync(todo);
         }
     }
 }

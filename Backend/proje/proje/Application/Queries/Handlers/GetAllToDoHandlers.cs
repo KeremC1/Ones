@@ -1,22 +1,21 @@
 ﻿using MediatR;
-using Microsoft.EntityFrameworkCore;
-using proje.Data;
+using proje.Application.Interfaces;
 using proje.Entities;
 
 namespace proje.Application.Queries.Handlers
 {
     public class GetAllToDosHandler : IRequestHandler<GetAllToDosQuery, List<ToDoItem>>
     {
-        private readonly ToDodbContext _context;
+        private readonly IToDoRepository _repository;
 
-        public GetAllToDosHandler(ToDodbContext context)
+        public GetAllToDosHandler(IToDoRepository repository)
         {
-            _context = context;
+            _repository = repository;
         }
 
         public async Task<List<ToDoItem>> Handle(GetAllToDosQuery request, CancellationToken cancellationToken)
         {
-            return await _context.ToDos.ToListAsync();
+            return await _repository.GetAllAsync();
         }
     }
 }

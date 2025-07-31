@@ -1,16 +1,17 @@
 ﻿using MediatR;
 using proje.Application.Commands;
-using proje.Data;
+using proje.Application.Interfaces;
 using proje.Entities;
+
 namespace proje.Application.Commands.Handlers
 {
     public class AddToDoHandler : IRequestHandler<AddToDoCommand, ToDoItem>
     {
-        private readonly ToDodbContext _context;
+        private readonly IToDoRepository _repository;
 
-        public AddToDoHandler(ToDodbContext context)
+        public AddToDoHandler(IToDoRepository repository)
         {
-            _context = context;
+            _repository = repository;
         }
 
         public async Task<ToDoItem> Handle(AddToDoCommand request, CancellationToken cancellationToken)
@@ -24,10 +25,7 @@ namespace proje.Application.Commands.Handlers
                 CreatedAt = DateTime.UtcNow
             };
 
-            _context.ToDos.Add(todo);
-            await _context.SaveChangesAsync();
-
-            return todo;
+            return await _repository.AddAsync(todo);
         }
     }
 }

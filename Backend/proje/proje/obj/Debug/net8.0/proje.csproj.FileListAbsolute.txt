@@ -344,3 +344,4 @@ C:\Users\kerem\OneDrive\Desktop\ones\Backend\proje\proje\obj\Debug\net8.0\refint
 C:\Users\kerem\OneDrive\Desktop\ones\Backend\proje\proje\obj\Debug\net8.0\proje.pdb
 C:\Users\kerem\OneDrive\Desktop\ones\Backend\proje\proje\obj\Debug\net8.0\proje.genruntimeconfig.cache
 C:\Users\kerem\OneDrive\Desktop\ones\Backend\proje\proje\obj\Debug\net8.0\ref\proje.dll
+C:\Users\kerem\OneDrive\Desktop\ones\Backend\proje\proje\obj\Debug\net8.0\proje.sourcelink.json

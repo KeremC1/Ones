@@ -1,28 +1,21 @@
 ﻿using MediatR;
 using proje.Application.Commands;
-using proje.Data;
+using proje.Application.Interfaces;
 
 namespace proje.Application.Commands.Handlers
 {
     public class DeleteToDoHandler : IRequestHandler<DeleteToDoCommand, bool>
     {
-        private readonly ToDodbContext _context;
+        private readonly IToDoRepository _repository;
 
-        public DeleteToDoHandler(ToDodbContext context)
+        public DeleteToDoHandler(IToDoRepository repository)
         {
-            _context = context;
+            _repository = repository;
         }
 
         public async Task<bool> Handle(DeleteToDoCommand request, CancellationToken cancellationToken)
         {
-            var todo = await _context.ToDos.FindAsync(request.ID);
-            if (todo == null)
-                return false;
-
-            _context.ToDos.Remove(todo);
-            await _context.SaveChangesAsync();
-
-            return true;
+            return await _repository.DeleteAsync(request.ID);
         }
     }
 }

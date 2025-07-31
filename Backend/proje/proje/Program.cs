@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using proje.Application.Commands.Handlers;
+using proje.Application.Interfaces;
 using proje.Data;
+using proje.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +18,9 @@ builder.Services.AddDbContext<ToDodbContext>(options =>options.UseSqlServer(buil
 
 builder.Services.AddMediatR(cfg =>
     cfg.RegisterServicesFromAssembly(typeof(AddToDoHandler).Assembly));
+
+
+builder.Services.AddScoped<IToDoRepository, ToDoRepository>();
 
 
 

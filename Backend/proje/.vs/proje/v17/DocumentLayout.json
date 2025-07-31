@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\application\\queries\\handlers\\getalltodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\application\\queries\\handlers\\getalltodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\application\\commands\\handlers\\updatetodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\application\\commands\\handlers\\updatetodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\application\\commands\\handlers\\deletetodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\application\\commands\\handlers\\deletetodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\application\\commands\\handlers\\addtodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\application\\commands\\handlers\\addtodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\infrastructure\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\infrastructure\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\application\\interfaces\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\application\\interfaces\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\application\\queries\\getalltodoqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +51,12 @@
       "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\application\\commands\\addtodocommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\application\\commands\\handlers\\updatetodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\application\\commands\\handlers\\updatetodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\application\\commands\\handlers\\deletetodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\application\\commands\\handlers\\deletetodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\application\\commands\\handlers\\addtodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\application\\commands\\handlers\\addtodohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|solutionrelative:proje\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD52E1E7-9F31-4BB9-92F7-779EDFA8FAC8}|proje\\proje.csproj|c:\\users\\kerem\\onedrive\\desktop\\ones\\backend\\proje\\proje\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -70,163 +78,189 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddToDoCommands.cs",
-              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\AddToDoCommands.cs",
-              "RelativeDocumentMoniker": "proje\\Application\\Commands\\AddToDoCommands.cs",
-              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\AddToDoCommands.cs",
-              "RelativeToolTip": "proje\\Application\\Commands\\AddToDoCommands.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:00:54.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DeleteToDoCommands.cs",
-              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\DeleteToDoCommands.cs",
-              "RelativeDocumentMoniker": "proje\\Application\\Commands\\DeleteToDoCommands.cs",
-              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\DeleteToDoCommands.cs",
-              "RelativeToolTip": "proje\\Application\\Commands\\DeleteToDoCommands.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Title": "IToDoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Interfaces\\IToDoRepository.cs",
+              "RelativeDocumentMoniker": "proje\\Application\\Interfaces\\IToDoRepository.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Interfaces\\IToDoRepository.cs",
+              "RelativeToolTip": "proje\\Application\\Interfaces\\IToDoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:01:28.466Z",
+              "WhenOpened": "2025-07-31T10:58:54.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateToDoCommads.cs",
-              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\UpdateToDoCommads.cs",
-              "RelativeDocumentMoniker": "proje\\Application\\Commands\\UpdateToDoCommads.cs",
-              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\UpdateToDoCommads.cs",
-              "RelativeToolTip": "proje\\Application\\Commands\\UpdateToDoCommads.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:01:07.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetAllToDoQueries.cs",
-              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Queries\\GetAllToDoQueries.cs",
-              "RelativeDocumentMoniker": "proje\\Application\\Queries\\GetAllToDoQueries.cs",
-              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Queries\\GetAllToDoQueries.cs",
-              "RelativeToolTip": "proje\\Application\\Queries\\GetAllToDoQueries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:03:51.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "GetAllToDoHandlers.cs",
               "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Queries\\Handlers\\GetAllToDoHandlers.cs",
               "RelativeDocumentMoniker": "proje\\Application\\Queries\\Handlers\\GetAllToDoHandlers.cs",
               "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Queries\\Handlers\\GetAllToDoHandlers.cs",
               "RelativeToolTip": "proje\\Application\\Queries\\Handlers\\GetAllToDoHandlers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T15:04:05.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ToDoController.cs",
-              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Controllers\\ToDoController.cs",
-              "RelativeDocumentMoniker": "proje\\Controllers\\ToDoController.cs",
-              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Controllers\\ToDoController.cs",
-              "RelativeToolTip": "proje\\Controllers\\ToDoController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:04:51.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ToDodbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Data\\ToDodbContext.cs",
-              "RelativeDocumentMoniker": "proje\\Data\\ToDodbContext.cs",
-              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Data\\ToDodbContext.cs",
-              "RelativeToolTip": "proje\\Data\\ToDodbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:05:32.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ToDoItem.cs",
-              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Entities\\ToDoItem.cs",
-              "RelativeDocumentMoniker": "proje\\Entities\\ToDoItem.cs",
-              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Entities\\ToDoItem.cs",
-              "RelativeToolTip": "proje\\Entities\\ToDoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:06:03.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Program.cs",
-              "RelativeDocumentMoniker": "proje\\Program.cs",
-              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Program.cs",
-              "RelativeToolTip": "proje\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:01:31.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UpdateToDoHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\Handlers\\UpdateToDoHandlers.cs",
-              "RelativeDocumentMoniker": "proje\\Application\\Commands\\Handlers\\UpdateToDoHandlers.cs",
-              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\Handlers\\UpdateToDoHandlers.cs",
-              "RelativeToolTip": "proje\\Application\\Commands\\Handlers\\UpdateToDoHandlers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:02:00.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DeleteToDoHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\Handlers\\DeleteToDoHandlers.cs",
-              "RelativeDocumentMoniker": "proje\\Application\\Commands\\Handlers\\DeleteToDoHandlers.cs",
-              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\Handlers\\DeleteToDoHandlers.cs",
-              "RelativeToolTip": "proje\\Application\\Commands\\Handlers\\DeleteToDoHandlers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:02:13.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "AddToDoHandlers.cs",
               "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\Handlers\\AddToDoHandlers.cs",
               "RelativeDocumentMoniker": "proje\\Application\\Commands\\Handlers\\AddToDoHandlers.cs",
               "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\Handlers\\AddToDoHandlers.cs",
               "RelativeToolTip": "proje\\Application\\Commands\\Handlers\\AddToDoHandlers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T15:01:46.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteToDoHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\Handlers\\DeleteToDoHandlers.cs",
+              "RelativeDocumentMoniker": "proje\\Application\\Commands\\Handlers\\DeleteToDoHandlers.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\Handlers\\DeleteToDoHandlers.cs",
+              "RelativeToolTip": "proje\\Application\\Commands\\Handlers\\DeleteToDoHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:02:13.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateToDoHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\Handlers\\UpdateToDoHandlers.cs",
+              "RelativeDocumentMoniker": "proje\\Application\\Commands\\Handlers\\UpdateToDoHandlers.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\Handlers\\UpdateToDoHandlers.cs",
+              "RelativeToolTip": "proje\\Application\\Commands\\Handlers\\UpdateToDoHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:02:00.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddToDoCommands.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\AddToDoCommands.cs",
+              "RelativeDocumentMoniker": "proje\\Application\\Commands\\AddToDoCommands.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\AddToDoCommands.cs",
+              "RelativeToolTip": "proje\\Application\\Commands\\AddToDoCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:00:54.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteToDoCommands.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\DeleteToDoCommands.cs",
+              "RelativeDocumentMoniker": "proje\\Application\\Commands\\DeleteToDoCommands.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\DeleteToDoCommands.cs",
+              "RelativeToolTip": "proje\\Application\\Commands\\DeleteToDoCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:01:28.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Program.cs",
+              "RelativeDocumentMoniker": "proje\\Program.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Program.cs",
+              "RelativeToolTip": "proje\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:01:31.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "proje\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "proje\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:04:51.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Infrastructure\\Repositories\\ToDoRepository.cs",
+              "RelativeDocumentMoniker": "proje\\Infrastructure\\Repositories\\ToDoRepository.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Infrastructure\\Repositories\\ToDoRepository.cs",
+              "RelativeToolTip": "proje\\Infrastructure\\Repositories\\ToDoRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:00:15.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateToDoCommads.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\UpdateToDoCommads.cs",
+              "RelativeDocumentMoniker": "proje\\Application\\Commands\\UpdateToDoCommads.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Commands\\UpdateToDoCommads.cs",
+              "RelativeToolTip": "proje\\Application\\Commands\\UpdateToDoCommads.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:01:07.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllToDoQueries.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Queries\\GetAllToDoQueries.cs",
+              "RelativeDocumentMoniker": "proje\\Application\\Queries\\GetAllToDoQueries.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Application\\Queries\\GetAllToDoQueries.cs",
+              "RelativeToolTip": "proje\\Application\\Queries\\GetAllToDoQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:03:51.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Entities\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "proje\\Entities\\ToDoItem.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Entities\\ToDoItem.cs",
+              "RelativeToolTip": "proje\\Entities\\ToDoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:06:03.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ToDodbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Data\\ToDodbContext.cs",
+              "RelativeDocumentMoniker": "proje\\Data\\ToDodbContext.cs",
+              "ToolTip": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Data\\ToDodbContext.cs",
+              "RelativeToolTip": "proje\\Data\\ToDodbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:05:32.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\appsettings.json",
               "RelativeDocumentMoniker": "proje\\appsettings.json",
@@ -238,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "20250721151817_Initial Migration.cs",
               "DocumentMoniker": "C:\\Users\\kerem\\OneDrive\\Desktop\\ones\\Backend\\proje\\proje\\Migrations\\20250721151817_Initial Migration.cs",
               "RelativeDocumentMoniker": "proje\\Migrations\\20250721151817_Initial Migration.cs",
